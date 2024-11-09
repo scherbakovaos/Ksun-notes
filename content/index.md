@@ -1,4 +1,8 @@
-# Заголовок страницы
+---
+title: Приветствую!
+---
+
+
 ## Журналистика
 **Журнали́стика** (от [фр.](https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA "Французский язык") [journaliste](https://ru.wiktionary.org/wiki/journaliste#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9 "wikt:journaliste") ← [journal](https://ru.wiktionary.org/wiki/journal#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9 "wikt:journal") ← [лат.](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA "Латинский язык") diurnalis, diurnale «ежедневное известие, весть» — общественная и производственная деятельность по сбору, обработке и периодическому распространению актуальной социальной информации (через печать, радио, телевидение, кино и т.п.). Основная характеристика журналистики - отражение реальной действительности, или жизнь общества и человека.
 Во 2-й половине XIX — начале XX вв. появились [фото-](https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0 "Фотожурналистика") и [киножурналистика](https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0 "Киножурналистика"), в 1920–1940-е гг. — [радио-](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0 "Радиожурналистика") и [тележурналистика](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0 "Тележурналистика").

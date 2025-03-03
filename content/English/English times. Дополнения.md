@@ -1,0 +1,153 @@
+- **Present Perfect**
+	- ! Маркеры
+		- ever
+		- never
+		- just 
+		- already
+		- yet
+		- today
+		- this morning
+		- so far
+		- once
+		- twice
+	- Примеры
+		- Have you **ever** played the piano
+		- I have **never** done such a diffical job
+		- He has **just** called me
+		- We have **already** discussed the problem
+		- He hasn't told me the news yet
+		- I haven't seen her **today**
+		- Have you been abroad this summer
+		- I haven't had dinner **so far** (пока что)
+		- I have seen this film **twice**
+	- Слова **lately** и **recently** 
+		- He has been very nervous lately
+		- We have made grain progress recently
+	- Предлоги **for an hour, for many years, for a long time, for the last few days**
+		- I haven't spoken to him for the last 3 days
+		- She hasn't had a proper rest for a long time
+	- Предлог **since**
+		- He hasn't called me since September
+	- Также наречие **since**
+		- He moved to a new flat and hasn't called me since
+		- He hasn't called me since he moved to a new flat
+	- **Вопросительная форма** образуется при помощи have и has
+		- Has he been walking here along?
+		- Have you been doing anything special lately?
+- **Present Perfect** делает акцент на завершении действия и результате действия
+- **Present Perfect Continuous** делает акцент на действии и его продолжительности
+	- He has planted 5 apple trees today.
+	- He has been planting apple trees all day
+- Если в предложении есть указание на то, **сколько раз** совершалось действие, употребляется **Present Perfect**
+	- I have read this book 2 or 3 times today
+	- I have been reading a lot lately
+- **Present Perfect** употребляется в вопросах **how much**, **how many**, **how many times**
+- **Present Perfect Continuous** употребляется в вопросах **how long** - действие, которое еще продолжается
+	- How many pages of this magazine has he read?
+	- How long has he been reading this magazine?
+- **Past simple** 
+	- в вопросах, начинающихся с **when**, **what time**
+		- When did the child called him?
+		- What time did you have lunch?
+	- Когда речь идет о **происхождении чего-либо, об открытиях, об изобретениях**
+		- Who gave you this advice?
+		- The French invented the cinema
+- **For a long time** - сколько, **long ago** - когда
+	- They have been married for a long time
+	- They got married long ago
+- **Past Continuous** делает акцент на процессе действия
+- **Past Simple** говорит о самом факте совершения действия
+	- At 7 o'clock last night he was returning at home
+	- At 7 o'clock last night he returned home
+	- When Tom called I was telling that story
+	- When Tom called I tolled him that story
+- Выражение **все утро / весь вечер** - Past Simple, Past Continuous
+	- She watched TV all evening
+	- She was watching TV all evening
+- В предложениях **я читал вчера 3 часа** или **он играл на пианино 5 часов** 
+	- I played the piano for 3 hours
+	- He read for 5 hours yesterday
+-  Если речь идет не о действиях, а **о состояниях**, наступивших к определенному моменту в прошлом, употребляется **Past Simple**
+	- They didn't know anything by this time yet
+	- They didn't find anything by that time yet
+- Но если указано, **сколько длится** это состояние к определенному моменту в прошлом, это **Past Perfect**
+	-  When I arrived Nick was already there
+	- When I arrived Nick had been there for 1 hour
+- Если действия представлены в их **реальной последовательности** -> **Past Simple**
+	- He lost the key and couldn't get into the house
+	- I couldn't get into the house because he had lost the key
+- Слова **lately** и **recently** - Present Perfect
+	- He has been very nervious **lately**
+	- We have made great progress **recently**
+- Указание на весь период действия с предлогом for
+	- For an hour, for many years, for the last few days, for a long time, for ages
+	- I haven't spoken to him **for** the last two days
+	- She hasn't had a proper rest **for** a long time 
+- Указание на момент, с которого действие началось, этот момент обозначается словом **since** (наречие с тех пор и предлог с)
+	- She hasn't called me **since** September
+	- He moved to a new flat in September, and hasn't called me **since**
+	- He hasn't called me **since** he moved to a new flat
+- Present Perfect делает акцент на завершении и результате действия 
+- Present Perfect Continuous делает акцент на самом действии или его продолжительности
+- Если в предложении есть указание на то, сколько раз длилось действие, употребляется только Present perfect
+	- I have read this book three times
+	- I have been reading a lot lately
+- Present perfect употребляется в вопросах How much, How many, How many times, когда речь идет о завершенных действиях
+- Present perfect continuous употребляется в вопросах How long, когда речь идет о действиях, которые еще продолжаются
+	- How many pages of this magasine has he read
+	- How long has been reading this magasin
+- Для описания очень давно продолжающейся или продолжительной ситуации предпочтительно употреблять Present perfect
+	- She has lived in this town all her life
+	- Our neibours have been living here for just a few days
+- Past simple с указанием точного времени: 
+	- yesterday, last night, at 5, the other day, just now, a week
+		- He finished school 2 years ago
+		- My dad returned home very late last night
+	- в вопросах, начинающихся с When, What time
+		- When did the child fell ill?
+		- What time did you have lunch?
+	- когда речь идет об открытиях, изобретении, происхождении чего-либо
+		- Who gave you this advice?
+		- The french invented the sinema
+	- когда указания точного времени нет, но оно подразумевается
+		- I have discussed the project with my boss.
+		- What did you say?
+		- I didn't know my granny. We didn't meet while she was alive.
+	- независимо от наличия слов и оборотов, характерных для present perfect, это время нельзя употреблять в контексте прошедшего времени
+		- She hasn't been working at school for a many years
+		- She worked at school for a 3 years and then quit
+		- I have been to the zoo twice
+		- I was in zoo twice in my childhood
+	- for a long time (сколько), a long ago (когда)
+		- They have been married for a long time
+		- They got married long ago
+		- I have been reading this book for a long time
+		- I read the book long ago
+- **Past continuous** делает акцент на процессе действия, past simple на факте совершения действия. При этом и Past continuous и past simple могут употребляться с одним и тем же указанием действия
+	- At 7 o'clock last night he was returning home
+	- At 7 o'clock last night he returned home
+- В сложных предложениях **Past continuous** употребляется для описания ситуации в прошлом, а для выражения законченных действий в этой ситуации употребляется **Past simple**
+	- Just I was leaving the office he arrived
+	- I was returning home when it started raining heavily
+	- Не путать подобные предложения с простой последовательностью действий
+		- When Tom called I was telling that story
+		- When Tom called I told him that story
+- С выражениями все утро, весь вечер употребляется Past simple и past continuous
+	- She watched / was watching TV all evening
+	- It showed / was showing all day
+- В предложениях типа я играла на пианино 3 часа, я читал вчера 5 часов употребляется past simple
+	- I played the piano for 3 hours
+	- He read for 3 hours yeasterday
+- Past perfect
+	- указанием времени с предлогом by
+		- She had written the essay by 6 o'clock
+- Если в предложении идет речь не о действиях, а о состоянии, употребляется Past simple
+	- They didn't know anything by that time yet
+	- They hadn't found anything by that time yet
+- Но если указано, сколько длится состояние к указанному моменту, обязательно употребление past perfect
+	- When I arrived, Nick was already there
+	- When I arrived Nick had been there for an hour
+- Если действия представлены в их реальной последовательности, то употребляется past simple
+	- He lost the key and couldn't get into the house
+	- He couldn't gat into the house because he had lost the key
+- 
